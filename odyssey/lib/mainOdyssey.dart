@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text('Tangem SDK plugin example')),
+        appBar: AppBar(title: const Text('Odyssey Tangem demo')),
         body: CommandListWidget(),
       ),
     );

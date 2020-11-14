@@ -15,7 +15,7 @@ dependencies:
   fluttertoast: ^3.1.3
   rxdart: ^0.22.0
   async: ^2.1.0
-  crypto: ^2.1.4
+  crypto: ^2.1.3
 
 dev_dependencies:
   flutter_test:
@@ -23,6 +23,7 @@ dev_dependencies:
 
   tangem_sdk:
     path: ../
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

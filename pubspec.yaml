@@ -13,6 +13,7 @@ dependencies:
   json_annotation: ^3.0.0
   convert: ^2.1.1
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
